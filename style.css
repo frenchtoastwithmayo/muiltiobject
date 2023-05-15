@@ -1,0 +1,50 @@
+h1 {
+    font-weight: 500;
+}
+
+body {
+    text-align: center;
+}
+
+.he {
+    height: 225px;
+    width: 255px;
+    background-color: rgb(255, 255, 255);
+    border: 8px solid black;
+    font-size: 30px;
+    color: black;
+    font-weight: 600;
+}
+
+.he:hover {
+    height: 225px;
+    width: 255px;
+    background-color: rgb(0, 0, 0);
+    border: 8px solid black;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+.back {
+    height: 40px;
+    width: 40px;
+    border-style: none;
+    background-color: white;
+    color: black;
+    float: left;
+}
+
+h3 {
+    margin-left: 40px;
+}
+
+canvas {
+    margin-left: 40px;
+    margin-top: 50px;
+    border: 8px solid black;
+}
+
+#btn1 {
+    margin-left: 40px;
+}
